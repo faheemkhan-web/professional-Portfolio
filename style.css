@@ -34,6 +34,20 @@
       color: inherit;
     }
 
+    /* .....................Download cv Button.............. */
+
+    .btn-primarry {
+      margin-top: 20px;
+      background: var(--primary);
+      color: #0f172a;
+      box-shadow: 0 10px 30px rgba(56, 189, 248, 0.25);
+    }
+
+    .btn-primarry:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 15px 35px rgba(56, 189, 248, 0.35);
+    }
+
     /* ---------------- Header ---------------- */
 
     header {
